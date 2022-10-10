@@ -1,0 +1,26 @@
+.footer_container {
+    background: rgb(241, 240, 240);
+    display: flex;
+    justify-content: center;
+    padding: 3rem 0;
+    margin-top: 6rem;
+
+}
+
+.inner_content {
+    width: 70%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.image_div {
+    position: relative;
+}
+
+.list {
+    list-style: none;
+    display: flex;
+    font-weight: 700;
+    gap: 1rem;
+}

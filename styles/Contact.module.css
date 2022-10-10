@@ -1,0 +1,35 @@
+.main {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 40vh;
+    font-weight: 500;
+}
+
+.title {
+    font-weight: 700;
+}
+
+.heading {
+    display: flex;
+    gap: 1rem;
+    align-items: center;
+
+}
+
+.icon {
+    color: rgb(9, 145, 99);
+    font-size: 1.2rem;
+}
+
+.address {
+    display: flex;
+    gap: 5rem;
+}
+
+.children {
+    margin-top: 1rem;
+    display: flex;
+    flex-direction: column;
+}
